@@ -1,0 +1,13 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: python_stereo_camera_calibrate
+message: >-
+  Stereo camera calibration script written in python. Uses
+  OpenCV primarily.
+type: software
+authors:
+  - given-names: ' Temuge'
+    family-names: 'Batpurev '
+repository-code: 'https://github.com/TemugeB/python_stereo_camera_calibrate'
